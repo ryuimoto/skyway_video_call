@@ -24,6 +24,6 @@ Route::get('commit_test',function(){
 });
 
 
-Route::get('guhheh',function(){
+Route::get('tarou',function(){
     return 78987678;
 });
