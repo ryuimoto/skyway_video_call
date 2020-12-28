@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('test',function(){
     return 12345;
 });
+
+Route::get('commit_test',function(){
+    return 78987678;
+});
