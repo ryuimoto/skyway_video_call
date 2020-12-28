@@ -31,3 +31,7 @@ Route::get('tarou',function(){
 Route::get('tarou2',function(){
     return 78987678;
 });
+
+Route::get('tarou3',function(){
+    return 78987678;
+});
