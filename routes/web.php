@@ -23,8 +23,4 @@ Route::get('commit_test',function(){
     return 78987678;
 });
 
-Route::get('commit_test5',function(){
-    return 999999999;
-});
-
 
