@@ -24,3 +24,6 @@ Route::get('commit_test',function(){
 });
 
 
+Route::get('guhheh',function(){
+    return 78987678;
+});
