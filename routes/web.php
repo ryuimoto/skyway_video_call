@@ -27,3 +27,7 @@ Route::get('commit_test',function(){
 Route::get('tarou',function(){
     return 78987678;
 });
+
+Route::get('tarou2',function(){
+    return 78987678;
+});
